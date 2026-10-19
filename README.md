@@ -2,7 +2,9 @@
 
 Учебный проект: одностраничный сайт аукциона необычных вещей.
 
-Репозиторий: https://github.com/Saakoz14/ono-tebe-nado-ad
+Репозиторий: https://github.com/Saakoz14/ono-tebe-nado
+
+![Превью сайта «Оно тебе надо»](./ono-tebe-nado-preview.png)
 
 ## Технологии
 
@@ -10,6 +12,3 @@
 - CSS3: Grid Layout и Flexbox
 - Локальные шрифты и адаптированная структура секций
 
-## Запуск
-
-Откройте `index.html` в браузере.
